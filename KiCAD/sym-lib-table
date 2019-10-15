@@ -3,4 +3,7 @@
   (lib (name YAMAHA)(type Legacy)(uri ${KIPRJMOD}/YAMAHA.lib)(options "")(descr ""))
   (lib (name oscillator)(type Legacy)(uri ${KIPRJMOD}/oscillator.lib)(options "")(descr ""))
   (lib (name C64-Exp-Port)(type Legacy)(uri ${KIPRJMOD}/C64-Exp-Port.lib)(options "")(descr ""))
+  (lib (name ATSAMD21E18A-AF)(type Legacy)(uri ${KIPRJMOD}/ATSAMD21E18A-AF.lib)(options "")(descr ""))
+  (lib (name swd)(type Legacy)(uri ${KIPRJMOD}/swd.lib)(options "")(descr ""))
+  (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri ${KIPRJMOD}/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
 )
