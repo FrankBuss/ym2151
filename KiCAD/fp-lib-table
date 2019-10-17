@@ -3,4 +3,5 @@
   (lib (name KiCAD)(type KiCad)(uri /home/frank/data/projects/ym2151/KiCAD)(options "")(descr ""))
   (lib (name ATSAMD21E18A-AF)(type Legacy)(uri ${KIPRJMOD}/ATSAMD21E18A-AF.mod)(options "")(descr ""))
   (lib (name swd)(type KiCad)(uri ${KIPRJMOD}/swd.pretty)(options "")(descr ""))
+  (lib (name ATSAMD21G18A-AU)(type Legacy)(uri ${KIPRJMOD}/ATSAMD21G18A-AU.mod)(options "")(descr ""))
 )

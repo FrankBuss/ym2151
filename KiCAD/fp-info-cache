@@ -1,4 +1,4 @@
-15591549129358321
+15593120396429298
 ATSAMD21E18A-AF
 QFP80P900X900X120-32N
 
@@ -6,6 +6,13 @@ QFP80P900X900X120-32N
 0
 32
 32
+ATSAMD21G18A-AU
+QFP50P900X900X120-48N
+
+
+0
+48
+48
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
