@@ -1775,16 +1775,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 7200 3350 7050
 Wire Wire Line
-	9150 7700 9150 7550
-Wire Wire Line
-	8950 7700 8950 7650
-Wire Wire Line
-	9050 7700 9050 7650
-Wire Wire Line
-	9050 7650 8950 7650
-Connection ~ 8950 7650
-Wire Wire Line
-	8950 7650 8950 7550
+	9150 7700 9150 7650
 Wire Wire Line
 	7900 10650 8500 10650
 Wire Wire Line
@@ -3024,6 +3015,12 @@ NoConn ~ 10400 5500
 NoConn ~ 11300 2850
 NoConn ~ 12200 2850
 NoConn ~ 10400 2850
+Wire Wire Line
+	8950 7550 8950 7700
+Wire Wire Line
+	9150 7650 9050 7650
+Wire Wire Line
+	9050 7650 9050 7700
 Wire Bus Line
 	950  3200 3450 3200
 Wire Bus Line
@@ -3036,4 +3033,7 @@ Wire Bus Line
 	2700 3200 2700 5300
 Wire Bus Line
 	1150 1150 1150 3100
+Connection ~ 9150 7650
+Wire Wire Line
+	9150 7650 9150 7550
 $EndSCHEMATC

@@ -1,18 +1,4 @@
-15593120396429298
-ATSAMD21E18A-AF
-QFP80P900X900X120-32N
-
-
-0
-32
-32
-ATSAMD21G18A-AU
-QFP50P900X900X120-48N
-
-
-0
-48
-48
+15583744635595647
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -47823,27 +47809,6 @@ solder jumper open
 0
 5
 3
-KiCAD
-C64-Cart
-
-
-0
-46
-44
-KiCAD
-trs
-
-
-0
-6
-6
-KiCAD
-USB_Mini_B_Female_690-005-299-043
-http://files.edac.net/USB_Mini_B_Female_690-005-299-043.pdf
-
-0
-9
-6
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -65005,13 +64970,6 @@ Socket_Arduino_Uno
 Socket_Strip_Arduino_1x10
 Through hole socket strip
 socket strip
-0
-10
-10
-swd
-swd
-
-
 0
 10
 10
